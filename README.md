@@ -1,9 +1,9 @@
 # Growth Mindset Challenge & Data Sweeper Web App
 
-## Muhammad Hammad
-- **GIAIC Student ID Number:** 413850
+## Muhammad Ramzan
+- **GIAIC Student ID Number:** 00367450
 - **Slot:** Section A (Tuesday Evening)
-- **Growth Mindset Challenge Web App Deployed URL:** https://growthmindsetchalenge.streamlit.app/
+- **Growth Mindset Challenge Web App Deployed URL:** https://growthmindsetchallenge-aiw6ukh5z6qujfbpywh4sj.streamlit.app/
 
 ---
 
@@ -32,7 +32,7 @@ A **Streamlit**-based web application that allows users to:
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/Hammadsheikh5/Growth_Mindset_Challenge
+git clone https://github.com/RamzanAsghar11/Growth_Mindset_Challenge
 cd Growth_Mindset_Challenge
 ```
 
